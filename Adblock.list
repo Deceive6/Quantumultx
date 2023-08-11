@@ -83,13 +83,6 @@ HOST, awaken.amap.com, REJECT
 HOST, free-aos-cdn-image.amap.com, REJECT
 # 工商银行 开屏广告
 HOST, pageviewp.icbc.com.cn, REJECT
-# 广告联盟
-HOST, is.snssdk.com, REJECT
-HOST, mi.gdt.qq.com, REJECT
-HOST, open.e.kuaishou.com, REJECT
-HOST-SUFFIX, pangolin-sdk-toutiao-b.com, REJECT
-HOST-SUFFIX, pangolin-sdk-toutiao.com, REJECT
-HOST-SUFFIX, pangolin-sdk-toutiao1.com, REJECT
 
 # ======= H ======= #
 # 海尔智家
