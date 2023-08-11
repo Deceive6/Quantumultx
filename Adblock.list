@@ -345,7 +345,6 @@ HOST-SUFFIX, wmedia-track.uc.cn, reject
 HOST-SUFFIX, woodpecker.uc.cn, reject
 host, gecko-pangle-lf.snssdk.com, reject
 host, mercury-sdk.snssdk.com, reject
-host, tbm.snssdk.com, reject
 host, toblog.ctobsnssdk.com, reject
 host, tnc3-aliec2.snssdk.com, reject
 
