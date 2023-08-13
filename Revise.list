@@ -39,8 +39,8 @@ ip-cidr, 192.168.1.1/24, direct
 host-keyword, anti-ad.net, direct
 
 host, ad.12306.cn, direct
-HOST, amdc.m.taobao.com
-HOST, ca.iadsdk.apple.com
+host, amdc.m.taobao.com
+host, ca.iadsdk.apple.com
 
 # > 携程
 host-keyword, aw-s.tripcdn.com, direct
