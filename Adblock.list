@@ -76,6 +76,10 @@ HOST, free-aos-cdn-image.amap.com, REJECT
 HOST, pageviewp.icbc.com.cn, REJECT
 
 # ======= H ======= #
+# HDOBOX广告
+host-suffix, doubleclick.net, reject
+host-suffix, applvn.com, reject
+host-suffix, applovin.com, reject
 # 海尔智家
 HOST-SUFFIX, ehaier.com, REJECT
 # 虎牙直播 开屏广告
