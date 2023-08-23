@@ -51,3 +51,8 @@ host,img.bfzypic.com, direct
 host,vip.kuaikan-cdn3.com, direct
 host,vip.ffzy-play7.com, direct
 host,cdn.jsdelivr.net, direct
+
+# ＞ 爱影视 分流修正
+host,vip.lz-cdn10.com, direct
+host,sf1-ttcdn-tos.kkimg.cc, direct
+host,img.liangzipic.com, direct
