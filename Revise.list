@@ -43,3 +43,11 @@ host, ca.iadsdk.apple.com, direct
 # > 携程
 host-keyword, aw-s.tripcdn.com, direct
 host-keyword, trip.com, direct
+
+# ＞ 大师兄 分流修正
+host,sdk.alibaba.com.ailbaba.me, direct
+host,img.ffzypic.com, direct
+host,img.bfzypic.com, direct
+host,vip.kuaikan-cdn3.com, direct
+host,vip.ffzy-play7.com, direct
+host,cdn.jsdelivr.net, direct
