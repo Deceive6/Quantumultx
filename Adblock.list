@@ -39,6 +39,8 @@ HOST, afd.baidu.com, REJECT
 HOST, afdconf.baidu.com, REJECT
 HOST, httpdns.baidubce.com, REJECT
 HOST, lc.map.baidu.com, REJECT
+# 百度网盘
+HOST, mobads.baidu.com, REJECT
 # 百度贴吧
 IP-CIDR, 180.76.76.200/32, REJECT
 # 哔哩哔哩
@@ -221,6 +223,7 @@ HOST, info6.video.qq.com, REJECT
 HOST, ios.video.mpush.qq.com, REJECT
 HOST, mtrace.qq.com, REJECT
 HOST, pgdt.gtimg.cn, REJECT
+HOST, vv.video.qq.com, REJECT
 # TubeMax  
 host-suffix, adjust.com, reject
 host-suffix, applvn.com, reject
@@ -323,7 +326,13 @@ HOST, sdkconfig.ad.xiaomi.com, REJECT
 
 # ======= Y ======= #
 # 优酷
+HOST, adsmind.ugdtimg.com, REJECT
 HOST, amdc.m.youku.com, REJECT
+HOST, httpdns.alicdn.com, REJECT
+HOST, huichuan-mc.sm.cn, REJECT
+HOST, huichuan.sm.cn, REJECT
+HOST, vali-ugc.cp31.ott.cibntv.net, REJECT
+HOST, valipl.cp31.ott.cibntv.net, REJECT
 HOST, yk-ssp.ad.youku.com, REJECT
 HOST, ykad-data.youku.com, REJECT
 # 云闪付 开屏广告
