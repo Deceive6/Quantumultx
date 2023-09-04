@@ -45,15 +45,18 @@ host-keyword, aw-s.tripcdn.com, direct
 host-keyword, trip.com, direct
 
 # ＞ 大师兄 分流修正
-host,sdk.alibaba.com.ailbaba.me, direct
-host,img.ffzypic.com, direct
-host,img.bfzypic.com, direct
-host,img.kuaikanzy.net, direct
-host,vip.kuaikan-cdn3.com, direct
-host,vip.ffzy-play7.com, direct
-host,cdn.jsdelivr.net, direct
+host, sdk.alibaba.com.ailbaba.me, direct
+host, img.ffzypic.com, direct
+host, img.bfzypic.com, direct
+host, img.kuaikanzy.net, direct
+host, vip.kuaikan-cdn3.com, direct
+host, vip.ffzy-play7.com, direct
+host, cdn.jsdelivr.net, direct
 
 # ＞ 爱影视 分流修正
-host,vip.lz-cdn10.com, direct
-host,sf1-ttcdn-tos.kkimg.cc, direct
-host,img.liangzipic.com, direct
+host, vip.lz-cdn10.com, direct
+host, sf1-ttcdn-tos.kkimg.cc, direct
+host, img.liangzipic.com, direct
+
+# ＞ 555影视 分流修正
+host, jkcasvcsc.com, direct
