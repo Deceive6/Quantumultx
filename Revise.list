@@ -14,14 +14,6 @@ host-keyword, buy.itunes.apple.com, direct
 host-keyword, icloud.com, direct
 # > 苹果iMessage服务
 host, init.ess.apple.com, direct
-# > 苹果其他服务
-host-keyword, ssl.apple.com, direct
-host-keyword, humb.apple.com, direct
-host, smp-device-content.apple.com, direct
-host-keyword, api-adservices.apple.com, direct
-host-keyword, ls.apple.com, direct
-host-keyword, gsa.apple.com, direct
-host-keyword, ess.apple.com, direct
 
 # > QQ空间
 host-keyword, ctc.qzs.qzone.qq.com, direct
