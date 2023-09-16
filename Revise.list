@@ -8,12 +8,9 @@ host-keyword, weather-adge.apple.com, direct
 host-suffix, weather-data.apple.com, direct
 host-suffix, weather-map.apple.com, direct
 host-suffix, weather-analytics-events.apple.com, direct
-# > 苹果内购服务
-host-keyword, buy.itunes.apple.com, direct
 # > 苹果icloud
 host-keyword, icloud.com, direct
-# > 苹果iMessage服务
-host, init.ess.apple.com, direct
+
 
 # > QQ空间
 host-keyword, ctc.qzs.qzone.qq.com, direct
